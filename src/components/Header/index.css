@@ -1,0 +1,49 @@
+/*=======================================
+    NAVbar
+==================================================*/
+.navbar-brand {
+    font-size: 25px;
+    padding: 15px 80px 15px 60px;
+    }
+    .navbar-default .navbar-brand {
+    color: #5E147D;
+    }
+    .navbar-default {
+    background-color: #5E147D;
+    border-color: #5E147D;
+    }
+    .navbar {
+     border-radius: 0px; 
+    }
+    .navbar-default .navbar-nav > li > a {
+    color: #FFF;
+    }
+    .navbar-default .navbar-nav > li > a:hover {
+    color: #FFF;
+    }
+    
+    .navbar-default .navbar-brand {
+    color: #FFFFFF;
+    }
+    .navbar-default .navbar-brand:hover {
+    color: #FFFFFF;
+    }
+    .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    color: #000;
+    background-color: #FFFFFF;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #5E147D;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: #5E147D;
+    }
+
+    .btn-navbar {
+        background: #8E44AD;
+        color: #fff;
+    }
+    .btn-navbar:hover {
+        opacity: 0.7;
+    }
+   

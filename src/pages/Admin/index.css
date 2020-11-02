@@ -1,0 +1,60 @@
+h2.title { 
+    text-align: center;
+}
+ul.list-prod {
+   list-style-type: none;
+}
+
+ul.list-prod li.list-prod-item {
+    background: #f9f9f9;
+    margin: 0.5em;
+    font-size: 14px;
+    font-family: 'raleway';
+    color: #2ecc71;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.form-input form {
+    width: 500px;
+    height: 500px;
+   
+}
+
+
+.form-input input, .form-input select, .form-input textarea {
+    width: 80%;
+    margin: 1em 0;
+    background: none;
+    border: 1px solid #2ecc71;
+    padding: 10px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    color: #282627;
+}
+
+button.btn-group {
+    outline: none;
+    border: none;
+    margin: 18px 0;
+    padding: 20px 40px;
+    background: #2ecc71;
+    font-family: Roboto;
+    color: #fff;
+    letter-spacing: 2px;
+    font-weight: 800;
+    text-transform: uppercase;
+    cursor: pointer;
+} 
+
+li.list-prod-item {
+    cursor: pointer;
+    font-weight: 700;
+}

@@ -1,0 +1,37 @@
+nav.main-menu {
+    background: #342234;
+}
+
+nav.main-menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav.main-menu a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: 500; 
+}
+
+nav.main-menu ul.main-ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav.main-menu ul.main-ul li {
+    flex: 0 1 0;
+}
+
+ul.main-ul li.main-li a span {
+    font-size: 20px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+nav.main-menu a:hover {
+    opacity: .6;
+}

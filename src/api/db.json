@@ -1,0 +1,312 @@
+{
+  "products": [
+    {
+      "name": "Sansung Galaxy J1",
+      "product_info": {
+        "version": "12",
+        "categories": "Mobile",
+        "price": "30450",
+        "amount": "40",
+        "avatar_url": "/assets/images/dummyimg.png",
+        "avatar": "Sansung Galaxy J1",
+        "description": "Mobile sansung version galaxy j1"
+      },
+      "views": 1,
+      "id": 0
+    },
+    {
+      "name": "Mochila Laptop 1",
+      "product_info": {
+        "version": 110,
+        "categories": "Bugs",
+        "price": 12700,
+        "amount": 30,
+        "avatar_url": "/assets/images/13.jpg",
+        "avatar": "Mochila Laptop 1",
+        "description": "Mochila de Laptop Confortável e Eficiente."
+      },
+      "views": 3,
+      "id": 1
+    },
+    {
+      "name": "Maxell",
+      "product_info": {
+        "version": "301pi",
+        "categories": "Accessories",
+        "price": 10300,
+        "amount": 15,
+        "avatar_url": "/assets/images/headphones.jpg",
+        "avatar": "maxell",
+        "description": "Headphones Maxell qualidade e permite microfone com serviços como blutooth."
+      },
+      "views": 1,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Iphone 9 plus",
+      "product_info": {
+        "version": "apple 9",
+        "categories": "Mobile",
+        "price": 150000,
+        "amount": 30,
+        "avatar_url": "/assets/images/phone.jpg",
+        "avatar": "iphone",
+        "description": "Modelo 9 do iphone desenvolvido pela apple."
+      },
+      "views": 0
+    },
+    {
+      "id": 4,
+      "name": "Iphone 10",
+      "product_info": {
+        "version": "apple 10",
+        "categories": "Mobile",
+        "price": 175500,
+        "amount": 20,
+        "avatar_url": "/assets/images/technology.jpg",
+        "avatar": "iphone",
+        "description": "Iphone na versão 10 desenvolvido pela apple."
+      },
+      "views": 0
+    },
+    {
+      "id": 5,
+      "name": "Sansung Galaxy 9 ",
+      "product_info": {
+        "version": "J9",
+        "categories": "Mobile",
+        "price": 130000,
+        "amount": 12,
+        "avatar_url": "/assets/images/phone.jpg",
+        "avatar": "sansung",
+        "description": "Modelo mais sufisticado com 64GB de Memória & 8GB de RAM."
+      },
+      "views": 0
+    },
+    {
+      "name": "Mouse",
+      "product_info": {
+        "version": "143",
+        "categories": "Accessories",
+        "price": "4000",
+        "amount": "32",
+        "avatar_url": "/assets/images/headphones.jpg",
+        "avatar": "Mouse",
+        "description": "Mouse para computadores laptop e desktop."
+      },
+      "id": 6,
+      "views": 0
+    },
+    {
+      "name": "Laptop Alian desk",
+      "product_info": {
+        "version": "24",
+        "categories": "Mobile",
+        "price": "50000",
+        "amount": "20",
+        "avatar_url": "/assets/images/phone.jpg",
+        "avatar": "Laptop Alian desk",
+        "description": "Máquina quântica super potente.  "
+      },
+      "id": 8,
+      "views": 0
+    },
+    {
+      "name": "Teclado Alean",
+      "product_info": {
+        "version": "50",
+        "categories": "Accessories",
+        "price": "25900",
+        "amount": "100",
+        "avatar_url": "/assets/images/headphones.jpg",
+        "avatar": "Teclado Alean",
+        "description": "Teclado sufisticado com leds verdes super cool, usado por games, geeks e dev's. "
+      },
+      "id": 9,
+      "views": 0
+    },
+    {
+      "name": "Cásio",
+      "product_info": {
+        "version": "23",
+        "categories": "Watches",
+        "price": "10000",
+        "amount": "50",
+        "avatar_url": "/assets/images/9.jpg",
+        "avatar": "Cásio",
+        "description": "Cásio Um relógio super estiloso."
+      },
+      "id": 10,
+      "views": 0
+    },
+    {
+      "name": "Pasta LV",
+      "product_info": {
+        "version": "12",
+        "categories": "Bugs",
+        "price": "2000",
+        "amount": "40",
+        "avatar_url": "/assets/images/13.jpg",
+        "avatar": "Pasta LV",
+        "description": "Pasta da Lv para viagens ou para outros fins."
+      },
+      "id": 11,
+      "views": 0
+    },
+    {
+      "name": "HP Notebook",
+      "product_info": {
+        "version": "602",
+        "categories": "Computers",
+        "price": "15000",
+        "amount": "45",
+        "avatar_url": "/assets/images/technology.jpg",
+        "avatar": "HP Notebook",
+        "description": "Laptop super potente para games"
+      },
+      "id": 12,
+      "views": 0
+    },
+    {
+      "name": "Huawei XD",
+      "product_info": {
+        "version": "23",
+        "categories": "Tables",
+        "price": "20500",
+        "amount": "50",
+        "avatar_url": "/assets/images/technology.jpg",
+        "avatar": "Huawei XD",
+        "description": "Table of company huawei for custumers users. "
+      },
+      "id": 13,
+      "views": 0
+    },
+    {
+      "name": "Tecno V1",
+      "product_info": {
+        "version": "12",
+        "categories": "Tables",
+        "price": "15600",
+        "amount": "80",
+        "avatar_url": "/assets/images/technology.jpg",
+        "avatar": "Tecno V1",
+        "description": "Table of Tecno Builders For custumers users."
+      },
+      "id": 14,
+      "views": 0
+    },
+    {
+      "name": "Gucci Bug",
+      "product_info": {
+        "version": "45",
+        "categories": "Bugs",
+        "price": "14900",
+        "amount": "20",
+        "avatar_url": "/assets/images/13.jpg",
+        "avatar": "Gucci Bug",
+        "description": "Gucci Bugs for travely and trippin ."
+      },
+      "id": 15,
+      "views": 0
+    },
+    {
+      "name": "Boots",
+      "product_info": {
+        "version": "342",
+        "categories": "Shoes",
+        "price": "3000",
+        "amount": "60",
+        "avatar_url": "/assets/images/1.jpg",
+        "avatar": "Boots",
+        "description": "Boots Shoes for users custumers or others."
+      },
+      "id": 16,
+      "views": 0
+    },
+    {
+      "name": "Oxfords",
+      "product_info": {
+        "version": "31",
+        "categories": "Shoes",
+        "price": "25000",
+        "amount": "40",
+        "avatar_url": "/assets/images/2.jpg",
+        "avatar": "Oxfords",
+        "description": "Oxford shoes for everybody, all users custumers."
+      },
+      "views": 3,
+      "id": 17
+    },
+    {
+      "name": "Loafers",
+      "product_info": {
+        "version": "21",
+        "categories": "Shoes",
+        "price": "12700",
+        "amount": "30",
+        "avatar_url": "/assets/images/3.jpg",
+        "avatar": "Loafers",
+        "description": "Loafers shoes for somebody wich are doctor."
+      },
+      "id": 18,
+      "views": 0
+    },
+    {
+      "name": "Sneakers",
+      "product_info": {
+        "version": "12",
+        "categories": "Shoes",
+        "price": "14500",
+        "amount": "15",
+        "avatar_url": "/assets/images/4.jpg",
+        "avatar": "Sneakers",
+        "description": "Sneakers shoes is from in canada country."
+      },
+      "id": 19,
+      "views": 0
+    },
+    {
+      "name": "Cartier",
+      "product_info": {
+        "version": "45",
+        "categories": "Watches",
+        "price": "23900",
+        "amount": "30",
+        "avatar_url": "/assets/images/9.jpg",
+        "avatar": "Cartier",
+        "description": "Cartier watchers for samepeople users."
+      },
+      "views": 0,
+      "id": 20
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "name": "Daniel Geremias",
+      "age": 40,
+      "gender": "Male",
+      "address": "Luanda",
+      "type_user": "admin",
+      "logs_data": {
+        "email": "daniel@gmail.com",
+        "password": "Daniel40",
+        "logs": 0
+      }
+    },
+    {
+      "id": 1,
+      "name": "Adelia Francisco",
+      "age": 36,
+      "gender": "Fame",
+      "address": "Luanda",
+      "type_user": "admin",
+      "logs_data": {
+        "email": "adelia@gmail.com",
+        "password": "adelia",
+        "logs": 0
+      }
+    }
+  ]
+}
