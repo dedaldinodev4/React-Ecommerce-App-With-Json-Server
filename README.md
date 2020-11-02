@@ -14,7 +14,11 @@ This project was the objective to create an app using Reactjs with json-server t
 * start the app
 
  cd React-Ecommerce-App-With-Json-Server
+ 
+ 
  npm run json:server
+ 
+ 
  npm run start
  
  
