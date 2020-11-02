@@ -13,9 +13,9 @@ This project was the objective to create an app using Reactjs with json-server t
 * run json:server
 * start the app
 
- ## cd React-Ecommerce-App-With-Json-Server
- ## npm run json:server
- ## npm run start
+ #cd React-Ecommerce-App-With-Json-Server
+ #npm run json:server
+ #npm run start
  
  
  Open on your browser http://localhost:3000
